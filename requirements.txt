@@ -2,3 +2,4 @@ streamlit
 groq
 pillow
 pyrebase4
+firebase-admin
